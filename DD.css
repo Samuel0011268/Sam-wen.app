@@ -1,0 +1,67 @@
+body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+     background-image: url("sam.jpg");
+    }
+    form {
+      background: #161616c3    ;
+      padding: 20px;
+      border-radius: 5px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    input[type="text"],
+    input[type="password"],
+    button {
+      display: block;
+      width: 100%;
+      margin-bottom: 10px;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 3px;
+      box-sizing: border-box;
+    }
+    button {
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #45a049;
+    }
+  h2{
+      color: #0ca900;
+  }
+p{
+     color: #ffffffc3;
+}
+a{
+    color: #0042ffd1;
+}
+p1{
+  color: #2b58ffe1;
+   display: flex;
+  justify-content: center;
+  align-items: center;
+      
+}
+p3{
+  color: #2b58ffe1;
+   display: flex;
+  justify-content: center;
+  align-items: center;
+      
+}
+input
+p2{
+  color: #2b58ffe1;
+   display: flex;
+  justify-content: center;
+  align-items: center;
+      
+}
